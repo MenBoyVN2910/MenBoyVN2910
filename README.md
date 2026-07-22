@@ -33,7 +33,7 @@ interests:
 - 🌱 Đang nghiên cứu & học sâu **.NET, React, Node.js**
 - 🎯 Mục tiêu: Trở thành **Software Developer** chuyên nghiệp
 - 📫 Liên hệ: **buiminhnhat2910@gmail.com**
-- ⚡ Fun fact: *"Code is like humor. When you have to explain it, it's bad."*
+- ⚡ Fun fact: *"Code is like humor. When you have to explain it, it's bad😅"*
 
 <br clear="both"/>
 
