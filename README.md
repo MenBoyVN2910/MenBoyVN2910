@@ -12,8 +12,8 @@
 
 <br/>
 
-<!-- Animated Rainbow Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%">
 
 <br/>
 
@@ -48,8 +48,8 @@
 
 <br clear="both"/>
 
-<!-- Animated Rainbow Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%">
 
 <br/>
 
@@ -75,8 +75,8 @@
 
 </div>
 
-<!-- Animated Rainbow Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%">
 
 <br/>
 
@@ -102,8 +102,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MenBoyVN2910&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=6C63FF&line=A9FBD7&point=FF6B6B&area_color=6C63FF&custom_title=📈%20Contribution%20Activity" width="100%" alt="Activity Graph"/>
 </div>
 
-<!-- Animated Rainbow Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%">
 
 <br/>
 
@@ -114,8 +114,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MenBoyVN2910&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" alt="Trophies"/>
 </div>
 
-<!-- Animated Rainbow Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%">
 
 <br/>
 
@@ -130,8 +130,8 @@
   </picture>
 </div>
 
-<!-- Animated Rainbow Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%">
 
 <br/>
 
@@ -146,8 +146,8 @@
   </picture>
 </div>
 
-<!-- Animated Rainbow Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%">
 
 <br/>
 
@@ -175,8 +175,8 @@
 </div>
 -->
 
-<!-- Animated Rainbow Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%">
 
 <br/>
 
@@ -200,8 +200,8 @@
   -->
 </div>
 
-<!-- Animated Rainbow Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%">
 
 <br/>
 
