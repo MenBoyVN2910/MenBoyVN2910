@@ -111,7 +111,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp; GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MenBoyVN2910&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MenBoyVN2910&theme=algolia&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=4&row=2" width="100%" alt="Trophies"/>
 </div>
 
 <!-- Gradient Divider -->
