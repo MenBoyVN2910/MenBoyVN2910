@@ -67,9 +67,9 @@ interests:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MenBoyVN2910&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=6C63FF" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=MenBoyVN2910&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=6C63FF" height="180" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenBoyVN2910&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MenBoyVN2910&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top Languages"/>
 </div>
 
 <br/>
@@ -91,7 +91,7 @@ interests:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MenBoyVN2910&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MenBoyVN2910&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&column=7" width="100%" alt="Trophies"/>
 </div>
 
 ---
@@ -112,36 +112,27 @@ interests:
 <!-- ==================== FEATURED PROJECTS ==================== -->
 ## 🚀 Featured Projects
 
+<div align="center">
+  <i>🚧 Coming soon... Các dự án sẽ được cập nhật tại đây!</i>
+</div>
+
 <!-- ============================================================ -->
-<!-- 📌 HƯỚNG DẪN: Thay thế REPO_NAME bằng tên repo thực tế      -->
+<!-- 📌 HƯỚNG DẪN: Khi có repo, bỏ comment block bên dưới và     -->
+<!-- thay REPO_NAME bằng tên repo thực tế của bạn                 -->
 <!-- Ví dụ: REPO_NAME_1 → my-portfolio-website                    -->
-<!--        REPO_NAME_2 → e-commerce-app                          -->
-<!-- Bạn có thể thêm nhiều card hơn bằng cách copy block <a>      -->
 <!-- ============================================================ -->
 
+<!--
 <div align="center">
-  <!-- Project 1 - Thay REPO_NAME_1 bằng tên repo của bạn -->
   <a href="https://github.com/MenBoyVN2910/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MenBoyVN2910&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&show_owner=true" alt="Project 1"/>
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=MenBoyVN2910&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&show_owner=true" alt="Project 1"/>
   </a>
   &nbsp;&nbsp;
-  <!-- Project 2 - Thay REPO_NAME_2 bằng tên repo của bạn -->
   <a href="https://github.com/MenBoyVN2910/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MenBoyVN2910&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&show_owner=true" alt="Project 2"/>
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=MenBoyVN2910&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&show_owner=true" alt="Project 2"/>
   </a>
 </div>
-
-<div align="center">
-  <!-- Project 3 - Thay REPO_NAME_3 bằng tên repo của bạn -->
-  <a href="https://github.com/MenBoyVN2910/REPO_NAME_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MenBoyVN2910&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&show_owner=true" alt="Project 3"/>
-  </a>
-  &nbsp;&nbsp;
-  <!-- Project 4 - Thay REPO_NAME_4 bằng tên repo của bạn -->
-  <a href="https://github.com/MenBoyVN2910/REPO_NAME_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MenBoyVN2910&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&show_owner=true" alt="Project 4"/>
-  </a>
-</div>
+-->
 
 ---
 
