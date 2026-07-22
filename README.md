@@ -102,22 +102,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MenBoyVN2910&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=6C63FF&line=A9FBD7&point=FF6B6B&area_color=6C63FF&custom_title=📈%20Contribution%20Activity" width="100%" alt="Activity Graph"/>
 </div>
 
-<!-- Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%">
 
-<br/>
 
-<!-- ==================== TROPHIES ==================== -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp; GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MenBoyVN2910&theme=algolia&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=4&row=2" width="100%" alt="Trophies"/>
-</div>
-
-<!-- Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%">
-
-<br/>
 
 <!-- ==================== SNAKE ANIMATION ==================== -->
 ## 🐍 Contribution Snake
