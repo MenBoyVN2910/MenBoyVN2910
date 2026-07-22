@@ -10,7 +10,18 @@
   </a>
 </div>
 
-<br/>
+<!-- ==================== NAVIGATION ==================== -->
+<div align="center">
+  <br/>
+  <a href="#-about-me"><img src="https://img.shields.io/badge/📋_About_Me-6C63FF?style=for-the-badge" alt="About Me"/></a>
+  &nbsp;
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/🚀_Projects-FF6B6B?style=for-the-badge" alt="Projects"/></a>
+  &nbsp;
+  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/🤝_Connect-00C9A7?style=for-the-badge" alt="Connect"/></a>
+  <br/><br/>
+</div>
+
+---
 
 <!-- ==================== ABOUT ME ==================== -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
@@ -36,76 +47,6 @@ interests:
 - ⚡ Fun fact: *"Code is like humor. When you have to explain it, it's bad😅"*
 
 <br clear="both"/>
-
----
-
-<!-- ==================== TECH STACK ==================== -->
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,java,html,css,js&theme=dark" />
-</p>
-
-### 🧩 Frameworks & Libraries  
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,vue&theme=dark" />
-</p>
-
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,mysql&theme=dark" />
-</p>
-
-</div>
-
----
-
-<!-- ==================== GITHUB STATS ==================== -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=MenBoyVN2910&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=6C63FF" height="180" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MenBoyVN2910&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MenBoyVN2910&theme=tokyonight&hide_border=true&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MenBoyVN2910&theme=tokyo-night&hide_border=true&area=true&custom_title=📈%20Contribution%20Activity" width="100%" alt="Activity Graph"/>
-</div>
-
----
-
-<!-- ==================== TROPHIES ==================== -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MenBoyVN2910&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&column=7" width="100%" alt="Trophies"/>
-</div>
-
----
-
-<!-- ==================== SNAKE ANIMATION ==================== -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MenBoyVN2910/MenBoyVN2910/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MenBoyVN2910/MenBoyVN2910/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/MenBoyVN2910/MenBoyVN2910/output/github-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
 
 ---
 
@@ -158,16 +99,6 @@ interests:
 
 ---
 
-<!-- ==================== QUOTE ==================== -->
-<div align="center">
-  
-### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-</div>
-
----
-
 <!-- ==================== FOOTER ==================== -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MenBoyVN2910&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -178,3 +109,58 @@ interests:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </div>
+
+<!-- ================================================================ -->
+<!-- 📦 CÁC SECTION ĐÃ ẨN - BỎ COMMENT ĐỂ BẬT LẠI KHI CẦN          -->
+<!-- ================================================================ -->
+
+<!-- 🛠️ TECH STACK
+## 🛠️ Tech Stack
+<div align="center">
+### 💻 Languages
+<p><img src="https://skillicons.dev/icons?i=cs,java,html,css,js&theme=dark" /></p>
+### 🧩 Frameworks & Libraries
+<p><img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,vue&theme=dark" /></p>
+### ⚙️ Tools & Platforms
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,mysql&theme=dark" /></p>
+</div>
+-->
+
+<!-- 📊 GITHUB STATS
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=MenBoyVN2910&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=6C63FF" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MenBoyVN2910&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=MenBoyVN2910&theme=tokyonight&hide_border=true&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MenBoyVN2910&theme=tokyo-night&hide_border=true&area=true&custom_title=📈%20Contribution%20Activity" width="100%"/>
+</div>
+-->
+
+<!-- 🏆 TROPHIES
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MenBoyVN2910&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&column=7" width="100%"/>
+</div>
+-->
+
+<!-- 🐍 SNAKE ANIMATION
+## 🐍 Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MenBoyVN2910/MenBoyVN2910/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MenBoyVN2910/MenBoyVN2910/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/MenBoyVN2910/MenBoyVN2910/output/github-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
+-->
+
+<!-- ✍️ QUOTE
+### ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
+-->
